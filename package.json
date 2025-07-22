@@ -1,6 +1,6 @@
 {
   "name": "instagram-clii",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "A powerful command-line interface for Instagram",
   "main": "lib/cli.js",
   "bin": {
