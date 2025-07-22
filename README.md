@@ -642,3 +642,4 @@ Join our growing community of developers who are building automation tools for s
 **Made with ❤️ for the command-line community**
 
 *Transform your Instagram experience with the power of the terminal!*
+*Github repository https://github.com/Kunboruto20/Instagram-clii.git
