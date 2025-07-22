@@ -1,0 +1,7 @@
+johndoe
+jane_smith
+@user123
+instagram.com/example_user
+https://www.instagram.com/another_user
+sample_account
+test_user

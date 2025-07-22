@@ -1,0 +1,33 @@
+{
+  "name": "instagram-clii",
+  "version": "1.1.6",
+  "description": "A powerful command-line interface for Instagram",
+  "main": "lib/cli.js",
+  "bin": {
+    "instagram-cli": "./bin/instagram-cli.js"
+  },
+  "scripts": {
+    "start": "node bin/instagram-cli.js",
+    "test": "node bin/instagram-cli.js --help"
+  },
+  "keywords": [
+    "instagram",
+    "cli",
+    "social-media",
+    "automation"
+  ],
+  "author": "Gyovannyvpn23",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^8.2.6",
+    "instagram-private-api": "^1.46.1",
+    "ora": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
